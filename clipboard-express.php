@@ -3,7 +3,7 @@
 Plugin Name: Clipboard Express
 Plugin URI: http://blog.ninedays.org/2008/05/07/clipboard-express-wordpress-plugin/
 Description: Need a clipboard to store stuff?  Well here ya go.  Each user has their own private clipboard to store content, information and notes. <a href="edit.php?page=clipboard">Clipboard Express</a>
-Version: 1.2
+Version: 1.2.1
 License: GPL
 Author: Terri Ann Swallow
 Author URI: http://www.ninedays.org/

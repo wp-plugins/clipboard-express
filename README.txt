@@ -5,7 +5,7 @@ Donate link: http://blog.ninedays.org/2008/05/07/clipboard-express-wordpress-plu
 Tags: post, module, clipboard, drafts, save, notes, multiuser, private, individual
 Requires at least: 2.5
 Tested up to: 2.6.5
-Stable tag: 1.2
+Stable tag: 1.2.1
 
 Stop saving needless drafts - keep multi-user notes and reference in a clipboard built into WordPress.
 
